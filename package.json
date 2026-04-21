@@ -1,0 +1,29 @@
+{
+  "name": "merkdown",
+  "productName": "Merkdown",
+  "version": "1.0.0",
+  "description": "Local Markdown + Mermaid diagram viewer for Mac",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev"
+  },
+  "keywords": [
+    "markdown",
+    "mermaid",
+    "viewer",
+    "mac"
+  ],
+  "author": "3loka",
+  "license": "MIT",
+  "dependencies": {
+    "@highlightjs/cdn-assets": "^11.11.1",
+    "chokidar": "^3.6.0",
+    "highlight.js": "^11.11.1",
+    "marked": "^14.1.4",
+    "mermaid": "^11.14.0"
+  },
+  "devDependencies": {
+    "electron": "^41.2.1"
+  }
+}
