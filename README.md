@@ -73,6 +73,3 @@ Open [sample.md](sample.md) to see everything the viewer can render.
 - [highlight.js](https://highlightjs.org/) — code syntax highlighting
 - [chokidar](https://github.com/paulmillr/chokidar) — file watching
 
-## License
-
-MIT — see [LICENSE](LICENSE).
